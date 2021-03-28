@@ -1,7 +1,7 @@
 public class homework1 {
 
     public static void main(String[] args){
-        //Проверяем работу метода computation (задание1)
+        //Проверяем  работу метода computation (задание1)
         System.out.println(computation(2, 3, 8, 15));
         //Проверяем работу метода SumCheck (задание2)
         System.out.println(sumCheck( 2, 20));
