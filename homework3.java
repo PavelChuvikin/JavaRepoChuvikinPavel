@@ -72,7 +72,7 @@ public class homework3 {
                                cellY = random.nextInt(fieldSizeY);
                            } while (!emptyCell(cellY, cellX));
                            field[cellY][cellX] = ai;
-                           }
+                            }
                        }
                     }
                 }
